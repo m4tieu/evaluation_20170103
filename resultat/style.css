@@ -1,1 +1,43 @@
- 
+p, li {
+	padding: 5px;
+}
+/* Decalage des listes et des paragraphes, pour etre plus lisible (non chevauchement sur les borders) */
+
+
+h1, h2, h3 {
+	text-align: center;
+}
+/* Alignement du texte des titres h1, h2 et h3 */
+
+
+h3 {
+	border-bottom: 2px solid black;
+	margin: 50px;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+/* border plein en bas du texte de 2px en noir (ligne noire sur la largueur de la page) 
+margin-left et margin-right pour decaler de chaque côtés le border-bottom
+ */
+
+
+h4 {
+	background-color: white;
+	border-bottom: 2px solid black;
+	margin: 5px;
+	padding-left: 50px; 
+}
+/* Couleur de fond blanche
+border plein en bas du texte de 2px en noir (ligne noire sur la largueur de la page)
+margin de 5px pour decoler de texte du bord
+padding-left de 50 px pour faire un decalage de 50px de gauche vers la droite. */
+
+
+article {
+	border: 1px solid black ;
+	background-color: #CCCCCC;
+	margin: 20px;
+}
+/* Encadrer les article d'une bordure noire de 1px
+couleur de fond en gris clair
+margin de 20px pour separer les differents articles. */ 
