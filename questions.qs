@@ -1,40 +1,40 @@
 ##ECOSYSTEME
-#L’informatique est la science:
--des dispositifs dont le fonctionnement dépend de la circulation d’électrons.
--des signaux électriques porteurs d’informations ou d’énergie.
--du traitement automatique de l’information.
+#L'informatique est la science:
+-des dispositifs dont le fonctionnement dÃ©pend de la circulation d'Ã©lectrons.
+-des signaux Ã©lectriques porteurs d'informations ou d'Ã©nergie.
+-du traitement automatique de l'information.
 -de la commande des appareils fonctionnant sans intervention humaine.
-#Le logiciel est: 
--la mémoire de l’ordinateur.
--le traitement automatique de l’information.
--l’ensemble des données manipulées par les instructions.
--un ensemble structuré d’instructions décrivant un traitement d’informations à faire réaliser par un matériel informatique.
-#L’algorithmique est la science:
--du traitement automatique de l’information.
+#Le logiciel est:
+-la mÃ©moire de l'ordinateur.
+-le traitement automatique de l'information.
+-l'ensemble des donnÃ©es manipulÃ©es par les instructions.
+-un ensemble structurÃ© d'instructions dÃ©crivant un traitement d'informations Ã  faire rÃ©aliser par un matÃ©riel informatique.
+#L'algorithmique est la science:
+-du traitement automatique de l'information.
 -des algorithmes.
 -des langages de programmation.
 -des instructions.
 #Un algorithme est:
--un ensemble de programmes remplissant une fonction déterminée, permettant l’accomplissement d’une tâche données.
--Une suite ordonnée d’instructions qui indiquent la démarche à suivre pour résoudres une série de problèmes équivalents.
--le nombre d’instructions élémentaires pour réaliser un certains nombre d’instructions.
--D la réponse D.
-#Internet c’est:
+-un ensemble de programmes remplissant une fonction dÃ©terminÃ©e, permettant l'accomplissement d'une tÃ¢che donnÃ©es.
+-Une suite ordonnÃ©e d'instructions qui indiquent la dÃ©marche Ã  suivre pour rÃ©soudres une sÃ©rie de problÃ¨mes Ã©quivalents.
+-le nombre d'instructions Ã©lÃ©mentaires pour rÃ©aliser un certains nombre d'instructions.
+-D la rÃ©ponse D.
+#Internet c'est:
 -le world wide web
--un ensemble de réseau interconnecté sans centre névralgique
-#Par quelle expérience du quotidien peut-on expliquer le modèle client-serveur ? Expliquez ?
+-un ensemble de rÃ©seau interconnectÃ© sans centre nÃ©vralgique
+#Par quelle expÃ©rience du quotidien peut-on expliquer le modÃ¨le client-serveur ? Expliquez ?
 #Qu'est ce qu'un framework?
-#Laquelle des fonctionnalités suivantes le serveur web n'est pas censé respecter :
--travailler en mode connecté sur IP
--repondre à une requête HTTP
--écouter le port 21
--répondre à une requête de type DELETE
-#Sur quel port écoute un serveur FTP ?
-#Nous travaillons sur 3 couches, laquelle n'est pas utilisée en developpement d'applications :
--présentation
--entité
+#Laquelle des fonctionnalitÃ©s suivantes le serveur web n'est pas censÃ© respecter :
+-travailler en mode connectÃ© sur IP
+-repondre Ã  une requÃ¨te HTTP
+-Ã©couter le port 21
+-rÃ©pondre Ã  une requÃ¨te de type DELETE
+#Sur quel port Ã©coute un serveur FTP ?
+#Nous travaillons sur 3 couches, laquelle n'est pas utilisÃ©e en developpement d'applications :
+-prÃ©sentation
+-entitÃ©
 -persistance
--métier
+-mÃ©tier
 ##HTML
 #Quel est la version actuelle HTML ?
 #HTML est l'acronyme de :
@@ -46,7 +46,7 @@
 #Peut-on mettre une balise NAV dans une balise SECTION ? Pourquoi ?
 #Combien de DIV peut-on imbriquer au maximum ?
 ##CSS
-#Quel est la valeur par défaut de la propriété display pour une balise DIV ?
+#Quel est la valeur par dÃ©faut de la propriÃ©tÃ© display pour une balise DIV ?
 -inline
 -none
 -table
@@ -62,25 +62,25 @@
 -selectionne toutes les balises et applique le css
 -cache toutes les div
 #body{width:80%;margin:auto} :
--dimensionne le body à 80% et l'aligne horizontalement
--dimensionne le body à 80% et le positionne a gauche
+-dimensionne le body Ã  80% et l'aligne horizontalement
+-dimensionne le body Ã  80% et le positionne a gauche
 -n'a aucun effet sur le body
-#En css le positionnement se fait par défaut :
+#En css le positionnement se fait par dÃ©faut :
 -par rapport au navigateur
 -par rapport au viewport
 -par rapport au parent
 ##ALGO
 #Dans quel cas utiliser une boucle FOR ?
-#Dans le cas de l'utilisation d'une variable booléene drapeau, par convention nous l'initialisons :
--à faux
--à vrai
--à null
+#Dans le cas de l'utilisation d'une variable boolÃ©ene drapeau, par convention nous l'initialisons :
+-Ã  faux
+-Ã  vrai
+-Ã  null
 #Je veux stocker la valeur 65536 en numerique, de quel type DOIT etre la variable :
 -int
 -long
 -float
 -String
-#Laquelle de ces variables, n'est pas utilisée pour les itérations :
+#Laquelle de ces variables, n'est pas utilisÃ©e pour les itÃ©rations :
 -i
 -j
 -k
