@@ -80,7 +80,7 @@ def write():
         # cette fonction ferme la balise article qui a ete ouverte dans la fonction debTheme
         def finTheme() : f.write('</article>\r\n')
         # on ecrit le debut du document html (inutile d'en faire une fonction car on ne l'ecrit qu'une seule fois)
-        f.write('<html>\r\n<head>\r\n<meta http-equiv="content-type" content="text/html; charset=utf-8" />\r\n<title>evaluations du 03 janvier 2017 - Lunel</title>\r\n<link rel="stylesheet" type="text/css" href="style.css">\r\n</head>\r\n\n<body>\r\n<h1>evaluations du 03 janvier 2017 - Lunel</h1>\r\n<h2>Paul Maillard</h2>\r\n')
+        f.write('<html>\r\n<head>\r\n<meta http-equiv="content-type" content="text/html; charset=utf-8" />\r\n<title>evaluations du 03 janvier 2017 - Lunel</title>\r\n<link rel="stylesheet" type="text/css" href="style.css">\r\n</head>\r\n\n<body>\r\n<h1>evaluations du 03 janvier 2017 - Lunel</h1>\r\n<h2>Mathieu BECERRA</h2>\r\n')
         # tant que i se trouve dans l'etendue de la longueur du tableau
         for i in range(len(tablQuest)):
             #  si le tableau theme n'est pas vide
